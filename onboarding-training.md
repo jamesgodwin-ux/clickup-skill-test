@@ -1,6 +1,4 @@
-# Onboarding System — Training Content
-
-**Onboarding System: Training Content**
+# Onboarding System: Training Content
 
 Salesforce → ClickUp Onboarding Workflow
 
